@@ -14,3 +14,4 @@ Find details about useful materials and issues to be solved.
 |---|---|
 |How I achieve assurance on 3rd party service providers|[Link](misteries/how_to_read_a_soc.md)|
 |How to read a SOC report|Link|
+|Do I get the same assurance from a SOC 2 Types1&2 reports as from an ISO 270001|Link|

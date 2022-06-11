@@ -1,4 +1,4 @@
-## Welcome to EveryDai IT Audit and Security Hub!
+## Welcome to EveryDay IT Audit & Security Hub!
 
 Find details about useful materials and issues to be solved.
 
@@ -6,7 +6,7 @@ Find details about useful materials and issues to be solved.
 
 |Header|Link|Source|Trust score|
 |---|---|---|---|
-|What is a SOC report|Mysteries/what_is_a_soc|XXX|High|
+|What is a SOC report|[Link]Mysteries/what_is_a_soc|XXX|High|
 
 ### Misteries to solve
 

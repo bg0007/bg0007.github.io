@@ -4,8 +4,9 @@ Find details about useful materials and issues to be solved.
 
 ### Use ful Links
 
-|Header|Link|
-|---|---|
+|Header|Link|Source|Trust score|
+|---|---|---|---|
+|What is a SOC report|Link|XXX|High|
 
 ### Misteries to solve
 

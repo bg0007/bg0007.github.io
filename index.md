@@ -12,5 +12,5 @@ Find details about useful materials and issues to be solved.
 
 |Problem|How to solve it|
 |---|---|
-|How I achieve assurance on 3rd party service providers|[Link](How to read a SOC report?)|
+|How I achieve assurance on 3rd party service providers|[Link](misteries/how_to_read_a_soc.md)|
 |How to read a SOC report|Link|

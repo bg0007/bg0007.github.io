@@ -10,8 +10,12 @@ Find details about useful materials and issues to be solved.
 
 ### Misteries to solve
 
-|Problem|How to solve it|
-|---|---|
-|How I achieve assurance on 3rd party service providers|[Link](misteries/how_to_read_a_soc.md)|
-|How to read a SOC report|Link|
-|Do I get the same assurance from a SOC 2 Types1&2 reports as from an ISO 270001|Link|
+|ID|Problem|How to solve it|
+|---|---|---|
+|001|How I achieve assurance on 3rd party service providers|[Link](misteries/how_to_read_a_soc.md)|
+|002|How to read a SOC report|Link|
+|003|Do I get the same assurance from a SOC 2 Types1&2 reports as from an ISO 270001|Link|
+
+
+### Typical risks
+

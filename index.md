@@ -1,4 +1,4 @@
-## Welcome to EveryDay IT Audit & Security Hub!
+# The EveryDay IT Audit & Security Hub
 
 ``` mermaid
 graph LR

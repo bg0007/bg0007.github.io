@@ -1,6 +1,6 @@
 ## How to read a SOC report?
 
-[<<Back to main page](https://bg0007.github.io/index.html)
+[<<Back to main page](index.md)
 
 ### Problem statement
 My company/client utilises outsourced services.

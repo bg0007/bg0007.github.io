@@ -31,5 +31,5 @@ graph LR
   A[Start] --> C{Cyber Audit?};
   B -->|Yes| D[You need help?];
   C -->|Yes| D[You need help?];
-  D --> E[We will help you;)];
+  D ----> E[We will help you;)];
 ```

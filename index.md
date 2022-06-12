@@ -26,7 +26,7 @@ graph LR
 
 |ID|Problem|How to solve it|
 |---|---|---|
-|M001|How I achieve assurance on 3rd party service providers|[Link](misteries/how_to_read_a_soc.md)|
+|M001|How I achieve assurance on 3rd party service providers|[Link](how_to_read_a_soc.md)|
 |M002|How to read a SOC report|Link|
 |M003|Do I get the same assurance from a SOC 2 Types1&2 reports as from an ISO 270001|Link|
 

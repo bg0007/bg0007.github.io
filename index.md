@@ -30,5 +30,5 @@ graph LR
   A[Start] --> B{IT Audit?};
   B -->|Yes| D[You need help?];
   C -->|Yes| D[You need help?];
-  D ----> E[We will help you;)];
+  D ----> E[We will help you];
 ```

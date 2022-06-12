@@ -1,8 +1,8 @@
-##How to read a SOC report?
+## How to read a SOC report?
 
 [<<Back to main page](https://bg0007.github.io/index.html)
 
-###Problem statement
+### Problem statement
 My company/client utilizes outsourced services.
 These services could include:
 - physical hardware
@@ -13,7 +13,7 @@ These services are key/significant part of SOX relevant/audit scope processes.
 I need to make sure, that all risks, associated with this process are all identified, remediated, corrected or mitigated through controls.
 I also have to make sure, that the selected vendor/3rd party is stable enough to continue provisioning such services.
 
-###Solution
+### Solution
 I need to identify, what aspects of the process is managed my company/client.
 Note: the risk (accountability of the third party ***ALWAYS*** recides at my company/client.
 
@@ -37,7 +37,7 @@ For security and compliance aspects, I check SOC 2 Type1 report for controls. I 
 If I can rely on the SOC 2 Type1, I will look into Type2 to test effectiveness.
 If I identify any observation, I evaluate if my business has incorporated in their risk assessment and they defined a proper response. If the observation has not been addressed, then I potenitally have found a gap.
 
-###Key aspects to pay attention to:
+### Key aspects to pay attention to:
 - Coverage period of the SOC report - these reports are issued annually. Depending what is your companies fiscal period and the vendors fiscal period, there might be a gap for an annual coverage - e.g. Your company has a FY that matches the CY, but the vendor has a FY that starts in October, then you might have a gap for the October-December period for your assurance. You must make sure, that the gap is covered from assurance aspect - e.g. by a cover letter
 - What activities are covered by the SOC report - it can be tricky, that you get infrastructure services from a vendor and also leased bodies. Then, you have to make sure, that the SOC report you received covers both activities (usually under services section). If the two separate activities are covered by separate reports, you must ask for both SOC reports.
 - Which locations are covered by the SOC report - it can happen, that the vendor provides you DC services from Location A,B and C. However, their SOC report covers only locations A and B. Make sure, that the relevant information for location C is also collected!

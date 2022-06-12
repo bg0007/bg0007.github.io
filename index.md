@@ -29,7 +29,7 @@ Find details about useful materials and issues to be solved.
 graph LR
   A[Start] --> B{IT Audit?};
   A[Start] --> C{Cyber Audit?};
-  B -->|Yes| D[You need help?];
-  C -->|Yes| D[You need help?];
-  D ----> E[We will help you];
+  B --> D[You need help?];
+  C --> D[You need help?];
+  D ----> |Yes| E[We will help you];
 ```

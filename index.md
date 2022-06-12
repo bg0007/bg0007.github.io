@@ -38,9 +38,9 @@ SAP, AWS, Azure, Workday, SalesForce, ServiceNow, SOC, SOX, Cybersecurity, IT Go
 (The list will grow, hopefully)
 
 ### Who we are?
-## *Andrew - Chief Problem Solver:
+*Andrew - Chief Problem Solver:
 
-## *Gabor - Chief Problem Architect: 
+*Gabor - Chief Problem Architect: 
 exIT Auditor, Star Wars and Lord of The Rings fan (though there is only one Return…), … Currently in the business, as business architect and driving transformation topics. Gained experience at PwC (Budapest office), Diageo (SAP SoD Specialist), IT Auditor (MSCI, Budapest office) and Siemens (IT Auditor, Munchen office). Holds CISA, CRISC, ITIL certifications, and recently passed CCSP.
 
 Guest Problem solvers:

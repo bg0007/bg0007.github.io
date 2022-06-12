@@ -8,7 +8,7 @@ graph LR
   A[Start] --> C{Cyber Audit?};
   B --> D[You need help?];
   C --> D[You need help?];
-  D ----> |Yes| E[We will help you];
+  D ----> |Yes| E[You are at the right place];
 ```
 
 

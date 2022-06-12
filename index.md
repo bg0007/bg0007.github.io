@@ -27,9 +27,9 @@ Find details about useful materials and issues to be solved.
 ### Flowcharts
 ``` mermaid
 graph LR
-  A[Start] --> B{Error?};
-  B -->|Yes| C[Hmm...];
-  C --> D[Debug];
-  D --> B;
-  B ---->|No| E[Yay!];
+  A[Start] --> B{IT Audit?};
+  A[Start] --> C{Cyber Audit?};
+  B -->|Yes| D[You need help?];
+  C -->|Yes| D[You need help?];
+  D --> E[We will help you;)];
 ```

@@ -2,6 +2,15 @@
 
 Find details about useful materials and issues to be solved.
 
+``` mermaid
+graph LR
+  A[Start] --> B{IT Audit?};
+  A[Start] --> C{Cyber Audit?};
+  B --> D[You need help?];
+  C --> D[You need help?];
+  D ----> |Yes| E[We will help you];
+```
+
 ### Useful Links
 
 |ID|Topic|Problem|Description|Link|Source|Trust score|
@@ -22,14 +31,3 @@ Find details about useful materials and issues to be solved.
 |ID|Risk title|Risk business impact/description|Impact|
 |---|---|---|---|
 |R001|Vendor goes out of business|Relevant if outsourcing is used - Any business operations require stable, available IT processes and systems. These requirements are defined in the BCR. Outsourcing can mean leased body, or SW or HW like a cloud provider. If such, are built in the IT services, the utilized 3rd parties stability (operational/fiscal) are key. <br />If a 3rd party goes out of business or reduces service provisions (e.g. decreased SLA), business processes could be significantly impacted, meaning that business goals could not be achieved, resulting in financial (e.g. loss of customers; potential compensation), operational (e.g. increased response time), reputational losses.|High|
-
-
-### Flowcharts
-``` mermaid
-graph LR
-  A[Start] --> B{IT Audit?};
-  A[Start] --> C{Cyber Audit?};
-  B --> D[You need help?];
-  C --> D[You need help?];
-  D ----> |Yes| E[We will help you];
-```

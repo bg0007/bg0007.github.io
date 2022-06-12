@@ -1,7 +1,5 @@
 ## Welcome to EveryDay IT Audit & Security Hub!
 
-Find details about useful materials and issues to be solved.
-
 ``` mermaid
 graph LR
   A[Start] --> B{IT Audit?};
@@ -11,6 +9,42 @@ graph LR
   D ----> |Yes| E[You are at the right place];
 ```
 
+### Hello, fellow enthusiasts!
+Andrew and I (Gabor), have created this site to share our knowledge, hopefully initiate some discussion and to support the professional community, along with everybody who might be interested in the topic.
+
+### What you can expect from us?
+We have approx 25+ years of experience in the fields of IT/Cyber security and IT Audit. 
+The things we have seen, heard, done might be relevant for you.
+The things You have seen, heard, done might be relevant for us and the community.
+We will share some experiences, practices with examples.
+Detail some of the struggles we faced and how we have overcome those.
+
+Most importantly though, we will list here our materials that we use for our everyday job.
+
+### What is the format?
+Short problem statements with potential solutions.
+Send us your problem, and we try it to solve it for you.
+You don t like the solution? Express your views in comments.
+
+### It sounds like Stackoverflow, why should I care?
+Indeed it sounds like that - however, this is specific for IT Security and Audit professionals. We welcome you here :)
+
+### I am interested in contributing, how can I do that?
+Our mail address is: XXX - drop us a mail and we will discuss the rest ;)
+But usually: write a problem statement and a potential solution. If it flies, we will post it (hopefully this will be more automatic in the future, but that requires effort, money… and we are doing this as a hobby, hence be patient). 
+
+### Topics I can count on You:
+SAP, AWS, Azure, Workday, SalesForce, ServiceNow, SOC, SOX, Cybersecurity, IT Governance
+(The list will grow, hopefully)
+
+### Who we are?
+## *Andrew - Chief Problem Solver:
+
+## *Gabor - Chief Problem Architect: 
+exIT Auditor, Star Wars and Lord of The Rings fan (though there is only one Return…), … Currently in the business, as business architect and driving transformation topics. Gained experience at PwC (Budapest office), Diageo (SAP SoD Specialist), IT Auditor (MSCI, Budapest office) and Siemens (IT Auditor, Munchen office). Holds CISA, CRISC, ITIL certifications, and recently passed CCSP.
+
+Guest Problem solvers:
+*Can be you...
 
 
 ### Useful Links

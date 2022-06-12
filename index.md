@@ -28,7 +28,6 @@ Find details about useful materials and issues to be solved.
 ``` mermaid
 graph LR
   A[Start] --> B{IT Audit?};
-  A[Start] --> C{Cyber Audit?};
   B -->|Yes| D[You need help?];
   C -->|Yes| D[You need help?];
   D ----> E[We will help you;)];

@@ -1,6 +1,6 @@
 ## How to read a SOC report?
 
-[<<Back to main page](../index.md)
+[<<Back to main page](../README.md)
 <br/>
 [<<Back to mysteries](mystery_index.md)
 

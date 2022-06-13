@@ -3,25 +3,30 @@
 [<<Back to main page](index.md)
 
 ### Problem statement
-My company/client utilises outsourced services.
-These services could include:
+My company/client utilises outsourced services in its value chain.
+I, as the internal/external auditor, have to make sure, that all risks are identified and addressed appropriately.
+
+Such services could be integral part of a value chain:
 - physical hardware
 - physical location for hardware
 - virtual hardware
 - leased body
 <br/>
-These services are key/significant part of SOX relevant/audit scope processes.
-I need to make sure, that all risks, associated with this process are all identified, remediated, corrected or mitigated through controls.
-I also have to make sure, that the selected vendor/3rd party is stable enough to continue provisioning such services.
+If these services are key/significant part of the business process, they might be SOX/regulatory relevant, and as such, will be in scope of an audit.
+>**Note**
+>Internal audits can also focus on outsourcing risks, its not only relevant from compliance aspect. Hence, as an audit professional, you always have to make sure, that you understand the scope of your audit!
+
+I, as an auditor need to make sure, that all risks, associated with this business process are all identified, remediated, corrected or mitigated through controls.
+I also have to make sure, that the selected vendor/3rd party is stable enough to continue provisioning such services for my company/client, that won't impact operations/quality/etc.
 
 ### Solution
-I need to identify, what aspects of the process is managed my company/client.
+I need to identify responsibility boundaries. For that, I have to understand, of what aspects of the business process are managed my company/client - and what belongs to the 3rd party.
 >**Note** 
->The risk arising from outsourcing (accountability of the third party) ***ALWAYS*** recedes at my company/client.
+>The risk arising from outsourcing (accountability of the third party) ***ALWAYS*** recedes at outsourcer - in this case, the auditor's company/client.
 
 Options:
-- my company/client utilises HW provided by the 3rd party (S/Paas)
-- my company/client utilises and manages HW provided by the 3rd party (Iaas)
+- my company/client utilises HW provided by the 3rd party (if virtual, then its a S/Paas model)
+- my company/client utilises and manages HW provided by the 3rd party (if virtual, then its a Iaas model)
 - my company/client utilises HW provided by the 3rd party and the HW is managed by the 3rd party (Saas)
 
 By understanding the *options* I am defining responsibility boundaries.

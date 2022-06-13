@@ -69,7 +69,7 @@ Guest Problem solvers:
 |M002|How do I achieve assurance on 3rd party service providers|[Read more>>](mysteries/how_to_read_a_soc.md)|
 |M003|Do I get the same assurance from a SOC 2 Types1&2 reports as from an ISO 270001|Coming soon|
 
-[More mysteries to Read>>](mysteries/mistery_index.md)
+[More mysteries to Read>>](mysteries/mystery_index.md)
 
 
 

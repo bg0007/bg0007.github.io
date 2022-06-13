@@ -5,6 +5,8 @@ markdown_extensions:
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
 
+site_name: Every Day IT and Security Audit
+
 theme:
   name: 'jekyll-theme-midnight'
   custom_dir: 'theme'

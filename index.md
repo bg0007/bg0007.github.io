@@ -9,8 +9,7 @@ graph LR
   D ----> |Yes| E[You are at the right place];
 ```
 
-> **Note**
-<br />
+> **Note**<br />
 > Blabla
 
 ### Hello, fellow enthusiasts!

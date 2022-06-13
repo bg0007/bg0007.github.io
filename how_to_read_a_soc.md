@@ -14,7 +14,7 @@ Such services could be integral part of a value chain:
 <br/>
 If these services are key/significant part of the business process, they might be SOX/regulatory relevant, and as such, will be in scope of an audit.
 >**Note**
->Internal audits can also focus on outsourcing risks, its not only relevant from compliance aspect. Hence, as an audit professional, you always have to make sure, that you understand the scope of your audit!
+>Internal audits can also focus on outsourcing risks, its not only relevant from compliance aspect. Hence, as an audit professional, you always have to >make sure, that you understand the scope of your audit!
 
 I, as an auditor need to make sure, that all risks, associated with this business process are all identified, remediated, corrected or mitigated through controls.
 I also have to make sure, that the selected vendor/3rd party is stable enough to continue provisioning such services for my company/client, that won't impact operations/quality/etc.

@@ -1,6 +1,7 @@
 ## How to read a SOC report?
 
 [<<Back to main page](../index.md)
+<br/>
 [<<Back to mysteries](mystery_index.md)
 
 ### Problem statement

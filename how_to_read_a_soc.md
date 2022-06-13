@@ -4,8 +4,8 @@
 
 ### Problem statement
 My company/client utilises outsourced services in its value chain.
-I, as the internal/external auditor, have to make sure, that all risks are identified and addressed appropriately.
-
+For a security audit: I, as an auditor have to make sure, that all risks, associated with this business process are all identified, remediated, corrected or mitigated through controls.
+For a compliance/financial audit: I, as and auditor have to make sure, that the selected vendor/3rd party is stable enough to continue provisioning such services for my company/client, that won't impact my company's/clients operations/service quality/etc.
 Such services could be integral part of a value chain:
 - physical hardware
 - physical location for hardware
@@ -15,10 +15,7 @@ Such services could be integral part of a value chain:
 If these services are key/significant part of the business process, they might be SOX/regulatory relevant, and as such, will be in scope of an audit.
 
 >**Note**
->Internal audits can also focus on outsourcing risks, its not only relevant from compliance aspect. Hence, as an audit professional, you always have to >make sure, that you understand the scope of your audit!
-
-I, as an auditor need to make sure, that all risks, associated with this business process are all identified, remediated, corrected or mitigated through controls.
-I also have to make sure, that the selected vendor/3rd party is stable enough to continue provisioning such services for my company/client, that won't impact operations/quality/etc.
+>Internal audits can also focus on outsourcing risks, its not only relevant from compliance aspect. Hence, as an audit professional, you always have to make sure, that you understand the scope of your audit!
 
 ### Solution
 I need to identify responsibility boundaries. For that, I have to understand, of what aspects of the business process are managed my company/client - and what belongs to the 3rd party.

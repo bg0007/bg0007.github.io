@@ -8,7 +8,8 @@ These services could include:
 - physical hardware
 - physical location for hardware
 - virtual hardware
-- leased body<br />
+- leased body
+<br />
 These services are key/significant part of SOX relevant/audit scope processes.
 I need to make sure, that all risks, associated with this process are all identified, remediated, corrected or mitigated through controls.
 I also have to make sure, that the selected vendor/3rd party is stable enough to continue provisioning such services.

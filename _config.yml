@@ -1,15 +1,14 @@
 site_name: Every Day IT and Security Audit
 
-theme:
-  name: 'jekyll-theme-midnight'
+theme: jekyll-theme-midnight
 #  custom_dir: 'theme'
-  include_search_page: true
-  search_index_only: true
-  language: en
-  palette:
-    - scheme: default
-      primary: teal
-      accent: teal
+#  include_search_page: true
+#  search_index_only: true
+#  language: en
+#  palette:
+#    - scheme: default
+#      primary: teal
+#      accent: teal
 #  features:
 #    - navigation.tabs
 #   - navigation.sections

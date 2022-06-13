@@ -13,6 +13,7 @@ Such services could be integral part of a value chain:
 - leased body
 <br/>
 If these services are key/significant part of the business process, they might be SOX/regulatory relevant, and as such, will be in scope of an audit.
+
 >**Note**
 >Internal audits can also focus on outsourcing risks, its not only relevant from compliance aspect. Hence, as an audit professional, you always have to >make sure, that you understand the scope of your audit!
 

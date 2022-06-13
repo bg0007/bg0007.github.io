@@ -4,7 +4,9 @@
 
 ### Problem statement
 My company/client utilises outsourced services in its value chain.
+<br/>
 <br/>For a security audit: I, as an auditor have to make sure, that all risks, associated with this business process are all identified, remediated, corrected or mitigated through controls.
+<br/>
 <br/>For a compliance/financial audit: I, as and auditor have to make sure, that the selected vendor/3rd party is stable enough to continue provisioning such services for my company/client, that won't impact my company's/clients operations/service quality/etc.
 Such services could be integral part of a value chain:
 - physical hardware

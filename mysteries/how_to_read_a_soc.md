@@ -1,6 +1,6 @@
 ## How to read a SOC report?
 
-[<<Back to main page](index.md)
+[<<Back to main page](../index.md)
 
 ### Problem statement
 My company/client utilises outsourced services in its value chain.

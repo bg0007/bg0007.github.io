@@ -64,7 +64,7 @@ Guest Problem solvers:
 |M002|How to read a SOC report|Link|
 |M003|Do I get the same assurance from a SOC 2 Types1&2 reports as from an ISO 270001|Link|
 
-
+[More mysteries to Read>>](mysteries/mistery_index.md)
 
 
 

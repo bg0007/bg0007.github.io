@@ -16,7 +16,8 @@ I also have to make sure, that the selected vendor/3rd party is stable enough to
 
 ### Solution
 I need to identify, what aspects of the process is managed my company/client.
-Note: the risk (accountability of the third party ***ALWAYS*** recedes at my company/client.
+>**Note** 
+>The risk arising from outsourcing (accountability of the third party ***ALWAYS*** recedes at my company/client.
 
 Options:
 - my company/client utilises HW provided by the 3rd party (S/Paas)

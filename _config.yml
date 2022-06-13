@@ -2,7 +2,7 @@ site_name: Every Day IT and Security Audit
 
 theme:
   name: 'jekyll-theme-midnight'
-  custom_dir: 'theme'
+#  custom_dir: 'theme'
   include_search_page: true
   search_index_only: true
   language: en

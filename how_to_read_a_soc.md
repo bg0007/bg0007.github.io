@@ -21,29 +21,29 @@ If these services are key/significant part of the business process, they might b
 <br/>
 
 ### Solution
-I need to identify responsibility boundaries. For that, I have to understand, of what aspects of the business process are managed my company/client - and what belongs to the 3rd party.
+I need to identify responsibility boundaries. For that, I have to understand, of what aspects of the business process are managed by my company/client - and what belongs to the 3rd party.
 >**Note** 
 >The risk arising from outsourcing (accountability of the third party) ***ALWAYS*** recedes at outsourcer - in this case, the auditor's company/client.
 
-Options:
+Typical options:
 - my company/client utilises HW provided by the 3rd party (if virtual, then its a S/Paas model)
 - my company/client utilises and manages HW provided by the 3rd party (if virtual, then its a Iaas model)
 - my company/client utilises HW provided by the 3rd party and the HW is managed by the 3rd party (Saas)
 
-By understanding the *options* I am defining responsibility boundaries.
-Internal actions will be covered by the evaluation of internal controls (ToD+ToE).
+By understanding the *options* I will be able to define, what is the responsibility of my company/client, and what is the responsibility of a 3rd party. This will drive my testing strategy, as internal activities will be covered by the evaluation of internal controls (ToD+ToE).
 
-External actions will be covered by two options:
-1. right to audit
-2. independent assessment of service providers controls (SOC*, ISO*, etc.)
-
-For this example, we continue with SOC.
-For fiscal stability, I check SOC 1 report.
-
-For security and compliance aspects, I check SOC 2 Type1 report for controls. I evaluate, if we have a gap between what we expected, and what the provider has audited in the SOC. If there is a gap, I check contractual agreements, if the vendor provides me additional evidence for the gap. If not, potential finding.
-
-If I can rely on the SOC 2 Type1, I will look into Type2 to test effectiveness.
-If I identify any observation, I evaluate if my business has incorporated in their risk assessment and they defined a proper response. If the observation has not been addressed, then I potentially have found a gap.
+While external activities will be covered by two options:
+1. practioving the right to audit my company's/client's service provider;
+2. reviewing the independent assessment of service providers controls (SOC*, ISO*, etc.)
+>**Note**
+>For the sake of this example, we will continue with SOC (right to audit will be covered in another chapter).
+<br/>
+As a financial/compliance auditor, for the service provider's fiscal stability, I will check the SOC 1 report.
+<br/>
+As an IT/Cyber/compliance auditor, for security and compliance aspects, I will check first the SOC 2 Type 1 report for deployed controls. I evaluate, if there is have a gap between what my company/client required as control activities, versus what the service provider's independent assessor has audited in the SOC report. If there is a gap, before I escalate, I will check the contractual agreements to see, if the service provider is obliged to provide my company/clientme additional assurance over the identified control gap(s). If ther service provider is not expected to provide anything more then the SOC controls, then there might be a potential finding.
+<br/>
+If I can rely on the SOC 2 Type 1 report, I will continue by looking into the Type2 report, to test control effectiveness.
+If I identify any observations in the report, I evaluate if my business/process owner has incorporated in their risk assessment and whether they have defined a proper response (e.g. additional control activity). If the observation has not been addressed by the business/process owner, then I might potentially have found a gap.
 
 ### Key aspects to pay attention to:
 - Coverage period of the SOC report - these reports are issued annually. Depending what is your companies fiscal period and the vendors fiscal period, there might be a gap for an annual coverage - e.g. Your company has a FY that matches the CY, but the vendor has a FY that starts in October, then you might have a gap for the October-December period for your assurance. You must make sure, that the gap is covered from assurance aspect - e.g. by a cover letter

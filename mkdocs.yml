@@ -4,3 +4,30 @@ markdown_extensions:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
+
+theme:
+  name: ''
+  custom_dir: 'theme'
+  include_search_page: true
+  search_index_only: true
+  language: en
+  palette:
+    - scheme: default
+      primary: teal
+      accent: teal
+#  features:
+#    - navigation.tabs
+#   - navigation.sections
+#    - navigation.expand
+#    - page.toc
+#    - openapi
+
+nav:
+  - Home:
+      - index.md
+  - Mysteries:
+      - mysteries/mystery_index.md
+  - Links:
+      - links.md
+  - Risks:
+      - risks/risk_index.md

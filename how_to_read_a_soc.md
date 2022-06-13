@@ -19,6 +19,7 @@ If these services are key/significant part of the business process, they might b
 >**Note**
 >Internal audits can also focus on outsourcing risks, its not only relevant from compliance aspect. Hence, as an audit professional, you always have to make sure, that you understand the scope of your audit!
 <br/>
+
 ### Solution
 I need to identify responsibility boundaries. For that, I have to understand, of what aspects of the business process are managed my company/client - and what belongs to the 3rd party.
 >**Note** 

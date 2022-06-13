@@ -2,7 +2,7 @@
 
 [<<Back to main page](../index.md)
 <br/>
-[<<Back to mysteries](mistery_index.md)
+[<<Back to mysteries](mystery_index.md)
 
 ### Problem statement
 My company/client utilises outsourced services in its value chain.

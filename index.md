@@ -9,6 +9,9 @@ graph LR
   D ----> |Yes| E[You are at the right place];
 ```
 
+**Note**
+Blabla
+
 ### Hello, fellow enthusiasts!
 Andrew and I (Gabor), have created this site to share our knowledge, hopefully initiate some discussion and to support the professional community, along with everybody who might be interested in the topic.
 

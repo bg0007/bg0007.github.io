@@ -40,6 +40,7 @@ While external activities will be covered by two options:
 >**Note**
 >For the sake of this example, we will continue with SOC (right to audit will be covered in another chapter).
 <br/>
+
 As a financial/compliance auditor, for the service provider's fiscal stability, I will check the SOC 1 report.
 <br/>
 As an IT/Cyber/compliance auditor, for security and compliance aspects, I will check first the SOC 2 Type 1 report for deployed controls. I evaluate, if there is have a gap between what my company/client required as control activities, versus what the service provider's independent assessor has audited in the SOC report. If there is a gap, before I escalate, I will check the contractual agreements to see, if the service provider is obliged to provide my company/clientme additional assurance over the identified control gap(s). If ther service provider is not expected to provide anything more then the SOC controls, then there might be a potential finding.

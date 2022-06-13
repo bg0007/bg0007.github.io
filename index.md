@@ -10,7 +10,7 @@ graph LR
 ```
 
 > **Note**<br />
-> Blabla
+> This is not an official site, its a side project by two really into-the-industry folks.
 
 ### Hello, fellow enthusiasts!
 Andrew and I (Gabor), have created this site to share our knowledge, hopefully initiate some discussion and to support the professional community, along with everybody who might be interested in the topic.

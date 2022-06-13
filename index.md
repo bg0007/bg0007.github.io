@@ -1,5 +1,7 @@
 # The EveryDay IT Audit & Security Hub
 
+html: https://bg0007.github.io/
+
 ``` mermaid
 graph LR
   A[Start] --> B{IT Audit?};

@@ -10,6 +10,7 @@ graph LR
 ```
 
 > **Note**
+<br />
 > Blabla
 
 ### Hello, fellow enthusiasts!

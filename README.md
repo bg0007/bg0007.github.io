@@ -32,7 +32,7 @@ Send us your problem, and we try it to solve it for you.
 You don t like the solution? Express your views in comments.
 
 ### It sounds like Stackoverflow, why should I care?
-Indeed it sounds like that - however, this is specific for IT Security and Audit professionals. We welcome you here :)
+Indeed it sounds like that - however, we aim to be more focused on IT Security and Audit topics.
 
 ### I am interested in contributing, how can I do that?
 Our mail address is: XXX - drop us a mail and we will discuss the rest ;)

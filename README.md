@@ -83,6 +83,6 @@ Guest Problem solvers:
 
 ### Our favorite podcasts
 
-|Name|Link|
-|---|---|
-|Darkent diaries|https://darknetdiaries.com|
+|Name|Link|Why we like it|
+|---|---|---|
+|Darkent diaries|https://darknetdiaries.com | Interesting investigations from the point of views of both sides|

@@ -48,6 +48,9 @@ As an IT/Cyber/compliance auditor, for security and compliance aspects, I will c
 If I can rely on the SOC 2 Type 1 report, I will continue by looking into the Type2 report, to test control effectiveness.
 If I identify any observations in the report, I evaluate if my business/process owner has incorporated in their risk assessment and whether they have defined a proper response (e.g. additional control activity). If the observation has not been addressed by the business/process owner, then I might potentially have found a gap.
 
+### Risks
+To be added
+
 ### Key aspects to pay attention to:
 - Coverage period of the SOC report - these reports are issued annually. Depending what is your companies fiscal period and the vendors fiscal period, there might be a gap for an annual coverage - e.g. Your company has a FY that matches the CY, but the vendor has a FY that starts in October, then you might have a gap for the October-December period for your assurance. You must make sure, that the gap is covered from assurance aspect - e.g. by a cover letter
 - What activities are covered by the SOC report - it can be tricky, that you get infrastructure services from a vendor and also leased bodies. Then, you have to make sure, that the SOC report you received covers both activities (usually under services section). If the two separate activities are covered by separate reports, you must ask for both SOC reports.
